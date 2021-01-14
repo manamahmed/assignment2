@@ -1,0 +1,51 @@
+.nav-logo{
+    display: flex;
+    padding: 20px;
+}
+
+.half-width{
+    width: 40%;
+    
+}
+
+
+.half-width img{
+    width: 90%;
+}
+
+.penguin-card{
+    border: 0;
+    
+}
+
+.penguin-card img{
+    width: 50%;
+}
+
+.catagories img{
+    width: 150px;
+    height: 200px;
+
+}
+
+.price{
+    color: goldenrod;
+    font-weight: bold;
+}
+
+.vertical-card-title{
+    font-weight: bold;
+}
+.vertical-card img{
+    width: 50%;
+
+
+}
+
+.v-card{
+    border-radius: 10px;
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
